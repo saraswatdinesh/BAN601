@@ -18,6 +18,6 @@ def main():
     pay = pay_calculate(hours, rate)
     print("Pay : ", pay)
 
-if __name__ = "__main__":
+if __name__ == "__main__":
     main()
 
