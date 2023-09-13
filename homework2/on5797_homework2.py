@@ -3,7 +3,7 @@
 # Email ID          :    dsaraswat2@horizon.csueastbay.edu
 # Student ID        :    on5797
 # Created Date      :    09/06/2023
-# Topic             :    Homework1 for BAN 602
+# Topic             :    Homework1 for BAN 601
 
 
 import sys
