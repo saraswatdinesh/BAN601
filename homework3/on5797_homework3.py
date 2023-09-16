@@ -1,5 +1,7 @@
 
-# This script expects that you provide the input file as the second parameter to the python execution
+# Author : Dinesh Saraswat
+# Date   : 09/16/2023
+#This script expects that you provide the input file as the second parameter to the python execution
 # Execution command is 
 
 # > python on5797_homework3.py <filenamewithpath>
@@ -56,7 +58,7 @@ def process_file(file_name):
     sorted_list = sort_dict(speaker_name_and_count)[:5]  # Here we will sort and just take the first 5 records
     for item in sorted_list:  # Printing the list with the name and the count
         print(item[1], item[0])
-
+    fhandle.close()
 
 
 def check_if_file(file_name):
