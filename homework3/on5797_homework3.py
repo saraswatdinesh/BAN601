@@ -2,9 +2,7 @@
 # Author : Dinesh Saraswat
 # Date   : 09/16/2023
 #This script expects that you provide the input file as the second parameter to the python execution
-# Execution command is 
-
-# > python on5797_homework3.py <filenamewithpath>
+# Execution command : python on5797_homework3.py <filenamewithpath>
 import sys
 
 def check_if_speaker_line(word):
